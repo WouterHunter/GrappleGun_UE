@@ -5,16 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Github/GrappleGun_UE/GrappleGun/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
-				"C:/Github/GrappleGun_UE/GrappleGun/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Github/GrappleGun_UE/GrappleGun/Content/UI/W_Crosshair.uasset",
-				"C:/Github/GrappleGun_UE/GrappleGun/Content/UI/M_Highlight.uasset",
-				"C:/Github/GrappleGun_UE/GrappleGun/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
-				"C:/Github/GrappleGun_UE/GrappleGun/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/D3/EGNC5F5YVDYKH3VITNG3GC.uasset",
-				"C:/Github/GrappleGun_UE/GrappleGun/Content/UI/Cube.uasset",
-				"C:/Github/GrappleGun_UE/GrappleGun/Content/FirstPerson/Maps/FirstPersonMap.umap",
-				"C:/Github/GrappleGun_UE/GrappleGun/Content/UI/M_Highlight_Inst.uasset",
-				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/FirstPerson/Blueprints/BP_GrappleGunComp.uasset",
+				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/FirstPerson/Blueprints/BP_GrappleGun.uasset",
+				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/FirstPerson/Input/Actions/IA_Grab.uasset",
+				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/FirstPerson/Input/IMC_Weapons.uasset",
+				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/FirstPerson/Blueprints/BP_GrabbedComponent.uasset"
 			]
 		}
 	]
