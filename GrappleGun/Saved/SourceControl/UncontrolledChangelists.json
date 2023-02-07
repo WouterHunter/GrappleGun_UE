@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Github/GrappleGun_UE/GrappleGun/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Github/GrappleGun_UE/GrappleGun/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Github/GrappleGun_UE/GrappleGun/Content/UI/W_Crosshair.uasset",
 				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
