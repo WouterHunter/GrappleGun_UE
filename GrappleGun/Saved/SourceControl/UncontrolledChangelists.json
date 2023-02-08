@@ -43,7 +43,14 @@
 				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/FirstPerson/Input/Actions/IA_Ability1.uasset",
 				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/FirstPerson/Input/Actions/IA_Ability2.uasset",
 				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/FirstPerson/Input/IMC_Default.uasset",
-				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/FirstPerson/Enums/EAbility.uasset"
+				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/FirstPerson/Enums/EAbility.uasset",
+				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/Characters/Blueprints/BP_PhysicalAnimComp.uasset",
+				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/Characters/Blueprints/BP_Enemy.uasset",
+				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/StarterContent/Props/MaterialSphere.uasset",
+				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/Characters/Mannequins/Rigs/PA_Mannequin.uasset",
+				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
+				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/OK/PQQ6OQ063P8IBDK4110LKB.uasset",
+				"D:/CMGT/Year2/BlockC/GrappleGun_UE/GrappleGun/Content/Characters/PhysicalAnimation/BP_PhysicalAnimComp.uasset"
 			]
 		}
 	]
